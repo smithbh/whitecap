@@ -1,0 +1,38 @@
+About = ""
+CategoryFlags = 0
+CategoryTitle = "(Custom)"
+Exclude.Pattern = ""
+Include.ConfigFlagMatchMask = 0
+Include.ConfigFlagSelectMask = 6
+Include.Pattern = ""
+LastModified = 0x5BB154A3
+Version = 1
+Include.List = "
+AT Field
+Avalanche
+Bessel
+Bobsleigh
+Canyon Chase
+Centrifuge
+Cosine Classic
+Daydreams At Zebo's
+DTSD
+Eye
+Fission
+Forespace (Hyperspace)
+Jellyfish
+LonComet
+Lotus
+Neptune Rising
+Nexus
+Perturbed
+Planet
+Pool
+RetroJazz
+Ribbon
+Tempest
+Tunnel Vision
+Wormhole
+"
+Exclude.List = "
+"

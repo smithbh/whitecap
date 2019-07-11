@@ -1,0 +1,28 @@
+About = ""
+CategoryFlags = 0
+CategoryTitle = "(Custom)"
+Exclude.Pattern = ""
+Include.ConfigFlagMatchMask = 0
+Include.ConfigFlagSelectMask = 6
+Include.Pattern = ""
+LastModified = 0x5BB154A3
+Version = 1
+Include.List = "
+Any Hue
+AquaPeak
+BiColor
+Blue and Pink Bands
+Blue Beat
+Blue Rainbow
+Blues for Miriam
+Candy Apple
+ChromaPeak
+Lost in Love
+Purple Peak
+Purples
+Rainbow Oddity
+Rainbow Revealed
+Red Planet
+"
+Exclude.List = "
+"

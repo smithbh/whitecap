@@ -1,0 +1,48 @@
+About = ""
+CategoryFlags = 0
+CategoryTitle = "(Custom)"
+Exclude.Pattern = ""
+Include.ConfigFlagMatchMask = 0
+Include.ConfigFlagSelectMask = 6
+Include.Pattern = ""
+LastModified = 0x5BB154A3
+Version = 1
+Include.List = "
+A Space Odyssey
+Abstract Images
+Ambient
+Arc
+Aurora Borealis
+Blossom
+Bluebell
+Brazen
+Ceiling
+Circle Party
+Conformity
+Cube District
+Doodle
+Energy Lines
+EQ
+Extroodle
+Final Frontier
+Floor
+Fluctuate
+Hypno View
+Lilac
+MeshHorizon
+New Travels
+Occurrence
+Paisley
+Past
+Porous
+Ribbon
+SpiderLegs
+Springtime
+Tie Dye
+Twist
+Warp
+Waves
+Without Gravity
+"
+Exclude.List = "
+"
